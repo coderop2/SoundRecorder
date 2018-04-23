@@ -1,0 +1,36 @@
+<resources>
+    <!-- Toolbar -->
+    <string name="app_name">Sound Recorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_title_record">Recording Tab</string>
+    <string name="tab_title_saved_recordings">Saved Recordings</string>
+    <string name="start_rec">Recording has started</string>
+    <string name="finish_rec">The Recording is saved to</string>
+    <string name="delete_f">%1$s successfully deleted</string>
+    <string name="file_exists">The file %1$s already exists. Please choose a different file name.</string>
+    <string name="notification_for_recording">Recording...</string>
+    <string name="title_delete">Confirm Delete...</string>
+    <string name="text_delete">Are you sure you would like to delete this file?</string>
+    <string name="title_licenses">Open Source Licenses</string>
+    <string name="title_share">Share File</string>
+    <string name="title_rename">Rename File</string>
+    <string name="title_options">Options</string>
+    <string name="file_share">Share File</string>
+    <string name="file_rename">Rename File</string>
+    <string name="file_delete">Delete File</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_ok">OK</string>
+    <string name="action_yes">Yes</string>
+    <string name="action_no">No</string>
+    <string name="no_saved_recordings_message">No saved recordings</string>
+    <string name="pause_recording_button">Pause</string>
+    <string name="resume_recording_button">Resume</string>
+    <string name="default_file_name">My Recording</string>
+    <string name="record_prompt">Tap the button to start recording</string>
+    <string name="record_in_progress">Recording</string>
+    <string name="send_to">Send to</string>
+    <string name="label">pref_high_quality</string>
+    <string name="pref_high">HighQualityRecording</string>
+    <string name="pref_common">Common Quality</string>
+</resources>
+
