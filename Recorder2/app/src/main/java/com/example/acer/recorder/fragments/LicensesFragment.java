@@ -11,6 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 
 import com.example.acer.recorder.R;
+
 public class LicensesFragment extends DialogFragment {
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
