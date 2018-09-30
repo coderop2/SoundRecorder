@@ -1,9 +1,5 @@
 package com.example.acer.recorder.fragments;
 
-/**
- * Created by acer on 9/30/2018.
- */
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Environment;
@@ -23,6 +19,10 @@ import com.example.acer.recorder.RecordingService;
 import com.melnykov.fab.FloatingActionButton;
 
 import java.io.File;
+
+/**
+ * Created by acer on 9/30/2018.
+ */
 
 /**
  * A simple {@link Fragment} subclass.

@@ -1,9 +1,5 @@
 package com.example.acer.recorder.fragments;
 
-/**
- * Created by acer on 9/30/2018.
- */
-
 import android.os.Bundle;
 import android.preference.CheckBoxPreference;
 import android.preference.Preference;
@@ -14,6 +10,10 @@ import com.example.acer.recorder.BuildConfig;
 import com.example.acer.recorder.MySharedPreferences;
 import com.example.acer.recorder.R;
 import com.example.acer.recorder.activities.SettingsActivity;
+
+/**
+ * Created by acer on 9/30/2018.
+ */
 
 public class SettingsFragment extends PreferenceFragment {
     @Override

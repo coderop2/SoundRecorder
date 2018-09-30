@@ -1,8 +1,5 @@
 package com.example.acer.recorder.fragments;
 
-/**
- * Created by acer on 9/30/2018.
- */
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.graphics.ColorFilter;
@@ -26,8 +23,11 @@ import com.melnykov.fab.FloatingActionButton;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
-public class PlaybackFragment extends DialogFragment{
+/**
+ * Created by acer on 9/30/2018.
+ */
 
+public class PlaybackFragment extends DialogFragment {
     private static final String LOG_TAG = "PlaybackFragment";
 
     private static final String ARG_ITEM = "recording_item";
